@@ -1,5 +1,7 @@
 # Formal Methods For Concurrent and Real Time Systems Project
 
+Uppaal Model Checker project.
+
 ## Abstract
 In this project is presented an UPPAAL model for railway networks based on rechargeable
 batteries installed on trains as source of energy, with a special focus on the design choices, extensibility,
